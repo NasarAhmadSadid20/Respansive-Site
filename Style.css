@@ -16,7 +16,7 @@ h1 {
   font-family: dana;
 }
 .header {
-  height: 550px;
+  height: 551px;
   background-image: url(./images/background.jpg.png);
   background-size: cover;
   background-position: center;
@@ -31,7 +31,7 @@ h1 {
 }
 .nav-item {
   display: inline-block;
-  padding: 15px;
+  padding: 16px;
 }
 .nav-item:hover {
   color: orange;
