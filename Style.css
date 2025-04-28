@@ -100,9 +100,9 @@ h1 {
   color: #fff;
 }
 .circle p {
-  margin-top: 40px;
+  margin-top: 42px;
   text-align: justify;
-  font-size: 20px;
+  font-size: 21px;
   color: #fff;
 }
 
@@ -115,8 +115,8 @@ h1 {
 }
 .icons {
   width: 100%;
-  height: 70px;
-  background-color: rgb(141, 138, 138);
+  height: 74px;
+  background-color: rgb(143, 138, 138);
   margin-top: 40px;
   text-align: center;
 }
@@ -124,7 +124,7 @@ h1 {
   text-align: center;
 }
 .icons img {
-  width: 50px;
+  width: 60px;
 }
 .img {
   position: relative;
